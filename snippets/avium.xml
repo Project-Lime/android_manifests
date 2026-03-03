@@ -2,7 +2,7 @@
 <manifest>
 
 <remote name="avium"
-        fetch="https://github.com/AviumUI"
+        fetch="https://gh-proxy.com/https://github.com/AviumUI"
         sync-c="true"
         sync-j="4"
         revision="refs/heads/avium-16.2"
